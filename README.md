@@ -1,31 +1,31 @@
-<!-- Header Section with Typing Effect and Animation -->
+<!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!%20I'm%20Arifian&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Informatics%20Student%20@%20UIN%20Prof.%20K.H.%20Saifuddin%20Zuhri&descAlignY=55&descAlign=62" />
 </div>
 
 <div align="center">
   <a href="https://github.com/arifianilhamnrr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Mahasiswa+Informatika;Full-Stack+Web+Enthusiast;Turning+Coffee+Into+Code;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Mahasiswa+Informatika;Penggemar+Web+Development;Mengubah+Kopi+Menjadi+Kode;Terus+Belajar+Teknologi+Baru" alt="Teks animasi tentang Arifian" />
   </a>
 </div>
 
 <br/>
 
-### 👨‍💻 Sedikit Tentang Saya
+### 👨‍💻 Tentang Saya
 
-Halo! 👋 Saya adalah seorang mahasiswa program studi **Informatika** di **UIN Prof. K.H. Saifuddin Zuhri (UIN SAIZU)**. Saya memiliki minat yang sangat besar di dunia teknologi, khususnya dalam rekayasa perangkat lunak dan pengembangan web (Web Development). Bagi saya, *coding* bukan hanya sekadar menulis baris-baris instruksi untuk komputer, melainkan sebuah seni untuk memecahkan masalah kompleks dan menciptakan solusi yang bermanfaat bagi banyak orang.
+Halo! 👋 Saya mahasiswa **Informatika** di **UIN Prof. K.H. Saifuddin Zuhri (UIN SAIZU)** yang tertarik pada rekayasa perangkat lunak dan pengembangan web. Bagi saya, *coding* bukan sekadar menulis instruksi untuk komputer, tetapi juga proses memecahkan masalah dan menciptakan solusi yang bermanfaat.
 
-- 🎓 **Pendidikan:** Saat ini sedang menempuh pendidikan S1 Informatika, mendalami algoritma, struktur data, dan arsitektur perangkat lunak.
-- 🔭 **Fokus Utama:** Sangat antusias dalam merancang dan membangun sistem yang interaktif, responsif, dan *scalable* menggunakan ekosistem PHP dan Laravel, serta teknologi modern lainnya.
-- 🌱 **Pembelajaran Saat Ini:** Saya selalu berusaha untuk keluar dari zona nyaman dengan mengeksplorasi bahasa pemrograman baru, *best practices* dalam penulisan kode (Clean Code), serta tren terbaru di dunia *frontend* maupun *backend*.
-- 👯 **Kolaborasi:** Saya sangat terbuka untuk berdiskusi, bertukar pikiran, atau berkolaborasi dalam proyek *Open Source*, riset akademik, maupun *hackathon*.
-- 💬 **Tanya Saya Tentang:** Pengembangan Web, Logika Pemrograman, PHP, atau sekadar berdiskusi santai mengenai masa depan teknologi!
+- 🎓 **Pendidikan:** Sedang menempuh pendidikan S1 Informatika serta mempelajari algoritma, struktur data, dan arsitektur perangkat lunak.
+- 🔭 **Fokus utama:** Merancang dan membangun aplikasi web yang interaktif, responsif, dan mudah dikembangkan menggunakan PHP, Laravel, serta teknologi modern lainnya.
+- 🌱 **Sedang dipelajari:** Bahasa pemrograman baru, praktik *clean code*, serta perkembangan teknologi *frontend* dan *backend*.
+- 👯 **Kolaborasi:** Terbuka untuk berdiskusi dan berkolaborasi dalam proyek *open source*, riset akademik, maupun *hackathon*.
+- 💬 **Mari berdiskusi tentang:** Pengembangan web, logika pemrograman, PHP, atau perkembangan teknologi.
 
 <br/>
 
-### 🚀 Teknologi & Alat Tempur
+### 🚀 Teknologi & Tools
 
-Saya percaya bahwa bahasa pemrograman dan *framework* hanyalah alat, namun menguasainya dengan baik akan sangat membantu dalam merealisasikan ide. Berikut adalah beberapa teknologi yang biasa saya gunakan:
+Berikut beberapa teknologi dan *tools* yang biasa saya gunakan untuk mengembangkan ide menjadi aplikasi:
 
 <div align="center">
   <p><strong>🌐 Frontend & UI</strong></p>
@@ -46,24 +46,21 @@ Saya percaya bahwa bahasa pemrograman dan *framework* hanyalah alat, namun mengu
 
 <br/>
 
-### 🐍 Aktivitas GitHub & Kontribusi
+### 🐍 Aktivitas Kontribusi GitHub
 
-Saya selalu berusaha untuk terus berkontribusi dan menjaga konsistensi dalam *coding*. 
+Saya terus belajar, membangun proyek, dan berusaha konsisten dalam berkontribusi.
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifianilhamnrr/arifianilhamnrr/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifianilhamnrr/arifianilhamnrr/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/arifianilhamnrr/arifianilhamnrr/output/github-contribution-grid-snake.svg">
+    <img alt="Animasi kontribusi GitHub Arifian" src="https://raw.githubusercontent.com/arifianilhamnrr/arifianilhamnrr/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-<div align="center">
-  <sub><i>(Catatan: Animasi grafis snake di atas memerlukan setup GitHub Actions. Jika belum disetel, gambar mungkin belum muncul, namun bisa kita buatkan nanti!)</i></sub>
 </div>
 
 <br/>
 
-### 📊 Statistik GitHub Saya
+### 📊 Statistik GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arifianilhamnrr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="192px" alt="GitHub Stats" />
