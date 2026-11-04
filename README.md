@@ -1,99 +1,100 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello%20World!%20I'm%20Arifian&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Informatics%20Student%20@%20UIN%20Prof.%20K.H.%20Saifuddin%20Zuhri&descAlignY=55&descAlign=62" />
-</div>
+```console
+arifian@github:~$ whoami
+Arifian Ilham Nur Riandana — Informatics student @ UIN SAIZU
+
+arifian@github:~$ cat focus.txt
+Building web systems with PHP & Laravel.
+Tinkering with Go, Cloudflare Workers, and cheap hardware when curiosity wins.
+
+arifian@github:~$ ./status --now
+[ open to ] collaboration · open source · internships
+[ coffee  ] ████████████████░░░░  80%  →  code
+```
 
 <div align="center">
   <a href="https://github.com/arifianilhamnrr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Mahasiswa+Informatika;Penggemar+Web+Development;Mengubah+Kopi+Menjadi+Kode;Terus+Belajar+Teknologi+Baru" alt="Teks animasi tentang Arifian" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Informatics+student+%40+UIN+SAIZU;Web+developer+%E2%80%94+PHP+%2F+Laravel;I+turn+curiosity+into+side+projects;Always+shipping+something+small" alt="typing banner" />
   </a>
 </div>
 
-<br/>
+---
 
-### 👨‍💻 Tentang Saya
+### `$ cat about.md`
 
-Halo! 👋 Saya mahasiswa **Informatika** di **UIN Prof. K.H. Saifuddin Zuhri (UIN SAIZU)** yang tertarik pada rekayasa perangkat lunak dan pengembangan web. Bagi saya, *coding* bukan sekadar menulis instruksi untuk komputer, tetapi juga proses memecahkan masalah dan menciptakan solusi yang bermanfaat.
+Informatics student at **UIN Prof. K.H. Saifuddin Zuhri (UIN SAIZU)**, into software engineering and web development. To me, coding is less about typing instructions and more about breaking a problem down until a useful solution falls out.
 
-- 🎓 **Pendidikan:** Sedang menempuh pendidikan S1 Informatika serta mempelajari algoritma, struktur data, dan arsitektur perangkat lunak.
-- 🔭 **Fokus utama:** Merancang dan membangun aplikasi web yang interaktif, responsif, dan mudah dikembangkan menggunakan PHP, Laravel, serta teknologi modern lainnya.
-- 🌱 **Sedang dipelajari:** Bahasa pemrograman baru, praktik *clean code*, serta perkembangan teknologi *frontend* dan *backend*.
-- 👯 **Kolaborasi:** Terbuka untuk berdiskusi dan berkolaborasi dalam proyek *open source*, riset akademik, maupun *hackathon*.
-- 💬 **Mari berdiskusi tentang:** Pengembangan web, logika pemrograman, PHP, atau perkembangan teknologi.
+- Studying algorithms, data structures, and software architecture toward my Informatics degree.
+- Day-to-day focus is building interactive, responsive web apps with **PHP** and **Laravel**.
+- Off-hours I wander: Go API gateways, Telegram/WhatsApp bots, Cloudflare Workers, even OpenCore on odd laptops.
+- Open to open-source work, academic research, and hackathons — let's build something.
 
-<br/>
+### `$ ls ~/stack`
 
-### 🚀 Teknologi & Tools
-
-Berikut beberapa teknologi dan *tools* yang biasa saya gunakan untuk mengembangkan ide menjadi aplikasi:
+```text
+languages    PHP · JavaScript · Go · Python · Dart
+web          Laravel · Node.js · HTML · CSS · Bootstrap · Tailwind
+data         MySQL · SQLite/D1
+tools        Git · GitHub · VS Code · Postman · npm · Figma
+infra        Cloudflare · Linux · self-hosting on cheap boxes
+```
 
 <div align="center">
-  <p><strong>🌐 Frontend & UI</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,go,python,mysql,tailwind,bootstrap,nodejs,cloudflare,git,figma&theme=dark" alt="stack icons" />
+</div>
+
+### `$ git log --oneline ~/featured`
+
+<div align="center">
+  <a href="https://github.com/arifianilhamnrr/whatsar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arifianilhamnrr&repo=whatsar&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" alt="whatsar" />
   </a>
-  
-  <p><strong>⚙️ Backend & Database</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs" />
+  <a href="https://github.com/arifianilhamnrr/tempmail-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arifianilhamnrr&repo=tempmail-bot&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" alt="tempmail-bot" />
   </a>
-  
-  <p><strong>🛠️ Tools & Version Control</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+  <a href="https://github.com/arifianilhamnrr/gopay-gateway-go">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arifianilhamnrr&repo=gopay-gateway-go&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" alt="gopay-gateway-go" />
+  </a>
+  <a href="https://github.com/arifianilhamnrr/opencore-infinix-bl51a5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arifianilhamnrr&repo=opencore-infinix-bl51a5&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" alt="opencore-infinix-bl51a5" />
   </a>
 </div>
 
-<br/>
-
-### 🐍 Aktivitas Kontribusi GitHub
-
-Saya terus belajar, membangun proyek, dan berusaha konsisten dalam berkontribusi.
+### `$ ./contributions --render`
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifianilhamnrr/arifianilhamnrr/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifianilhamnrr/arifianilhamnrr/output/github-contribution-grid-snake.svg">
-    <img alt="Animasi kontribusi GitHub Arifian" src="https://raw.githubusercontent.com/arifianilhamnrr/arifianilhamnrr/output/github-contribution-grid-snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/arifianilhamnrr/arifianilhamnrr/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-<br/>
-
-### 📊 Statistik GitHub
+### `$ git stats --summary`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifianilhamnrr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="192px" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifianilhamnrr&theme=tokyonight&hide_border=true&background=0d1117" height="192px" alt="GitHub Streak" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=arifianilhamnrr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" alt="github stats" />
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=arifianilhamnrr&hide_border=true&background=0d1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifianilhamnrr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="300px" alt="Top Languages" />
+  <img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifianilhamnrr&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9" alt="top languages" />
 </div>
 
-<br/>
-
-### 📫 Mari Terhubung!
+### `$ contact --open`
 
 <div align="center">
   <a href="mailto:arifianilhamnur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/arifianilhamnrr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/email-arifianilhamnur-39D353?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" alt="email" />
   </a>
   <a href="https://linkedin.com/in/arifianilhamnrr">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-arifianilhamnrr-39D353?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" alt="linkedin" />
   </a>
+  <a href="https://instagram.com/arifianilhamnrr">
+    <img src="https://img.shields.io/badge/instagram-arifianilhamnrr-39D353?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117" alt="instagram" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=arifianilhamnrr&style=flat-square&color=39D353&label=visitors" alt="profile views" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=arifianilhamnrr&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<br/>
-<div align="center">
-  <i>"First, solve the problem. Then, write the code." – John Johnson</i>
+  <sub><code>// First, solve the problem. Then, write the code. — John Johnson</code></sub>
 </div>
